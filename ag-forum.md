@@ -1,5 +1,5 @@
 ---
-title: Haccking de l'Assemblée générale Annuelle
+title: Hacking de l'Assemblée générale Annuelle
 description: Description de la manière dont nous avons bidouillé (hacké) le format de l'AGO 2016 de la Cagette.
 image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img/ag-forum.jpg
 ---
