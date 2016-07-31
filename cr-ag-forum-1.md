@@ -31,7 +31,7 @@ En raison du nombre de participants et de thèmes, chaque session de discussion 
 
 Pour une meilleure lisibilité, les suggestions et pistes d’actions concrètes à entreprendre dans un futur proche sont mises en valeur dans chaque compte rendu de discussion.
 
- ## Comment anticiper la transition vers la coopérative ?
+## Comment anticiper la transition vers la coopérative ?
 La transition coopérative, c’est passer du projet associatif « Les amis de la Cagette » au futur supermarché coopératif « La Cagette ». 
 
 Plusieurs chantiers seront à mener :
@@ -122,9 +122,6 @@ Une liste des volontaires serait disponible et lors des adhésions un « référ
 Chaque « référent » pourrait d’ailleurs parrainer plusieurs nouveaux adhérents.
 Les coordonnées (tel, pour rester dans le contact humain) des nouveaux adhérents seraient transmises aux référents afin que ces derniers établissent un contact. 
 La mise en place de ce « parrainage » permettrait à des adhérents n’ayant pas suffisamment de temps pour faire partie d’un GT, mais motivés malgré tout, de s’investir plus dans la Cagette (puisqu’ils doivent se tenir au courant des avancées, etc.) et aux nouveaux de se sentir accueillis dans une structure qui garde une dimension humaine, en particulier à long terme, quand nous serons vraiment nombreux.
-
 4. Nous avons évoqué la **création d’un livret d’accueil** (infos sur la Cagette, son fonctionnement, le rôle des groupes de travail, etc.) qui serait remis aux adhérents lors de l’inscription. 
-
 5. Il faudrait également **redéfinir clairement les fonctions des « coordinateurs »** des GT (pas nécessaire de se référer à eux pour chaque tâche, ce ne sont pas des « chefs », etc.)
-
 6. Peut-être **créer des FAQ de groupes**, avec mises à jour régulières ?
