@@ -1,7 +1,7 @@
 ---
 title: Présentation de la Cagette
 description: Un supermarché coopératif à Montpellier
-image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img/ag-forum.jpg
+image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img/cagette.jpg
 ---
 
 # Un supermarché coopératif à Montpellier?

@@ -1,7 +1,7 @@
 ---
 title: Compte rendu des ateliers de l’AGO #2
 description: Description des ateliers de l’AGO 2016 #2
-image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img/ag-forum.jpg
+image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img/ag-forum-2.jpg
 ---
 
 ## Partenariats et financement de la Cagette : les conditions de l’indépendance financière.
