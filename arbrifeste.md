@@ -2,7 +2,7 @@ La Cagette est un supermarché à but non lucratif, ouvert à tous, dont les mem
 
 On sait faire des choses, et on aime les faire bien, avec vous.
 
-# HORIZONTALITÉ
+## HORIZONTALITÉ
 Pas d'autorité à la Cagette, la responsabilité des échecs et des réussites est également répartie sur les épaules de tou.te.s.
 
 - On décide ensemble.
@@ -11,10 +11,12 @@ Pas d'autorité à la Cagette, la responsabilité des échecs et des réussites 
 - On cherche l'établissement de relations équitables, égalitaires et réciproques.
 - On fait confiance à nos interlocuteurs par défaut, et on demande la réciproque.
 
-## Participation active
-## Décision par consentement
-## Nous sommes ouverts sauf aux personnes fermées
-## Réciprocité
+---
+* Participation active
+* Décision par consentement
+* Nous sommes ouverts sauf aux personnes fermées
+* Réciprocité
+---
 
 # ÉMANCIPATION
 Pour changer le monde de l'alimentation, pour manger mieux et moins cher, nous choisissons une réponse collective. 
@@ -65,3 +67,5 @@ On dit ce que l’on pense, on fait ce que l’on dit et on n'essaye pas de fair
 ## Ne pas faire les malin.e.s
 
 D’une façon générale, nous aspirons à établir des rapports de collaboration équitables, plaisants, sereins et maintenables indéfiniment.
+
+![](https://raw.githubusercontent.com/la-cagette/documentation/master/img/arbrifeste.png)
