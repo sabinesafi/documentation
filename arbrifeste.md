@@ -51,7 +51,7 @@ La Cagette est ouverte à toutes les différentes pratiques, opinions et préfé
 
 ## ÉCOLOGIE
 Pour changer le monde de l'alimentation, pour manger mieux et moins cher, nous choisissons une réponse collective. 
-- 
+
 - On abhorre le stress. On croit que le plaisir est un facteur essentiel d’équilibre et de réussite.
 - Plus que favoriser les circuits courts, la qualité, ... nous souhaitons proposer une approche systémique et pragmatique pour mieux manger en réduisant l'impact environnemental de notre alimentation.
 
@@ -62,7 +62,6 @@ Pour changer le monde de l'alimentation, pour manger mieux et moins cher, nous c
 
 ## HONNÊTETÉ
 On dit ce que l’on pense, on fait ce que l’on dit et on n'essaye pas de faire les malin.e.s.
-
 
 - On est attaché.e.s au principe de non lucrativité.
 - On essaye de rendre visible et transparent les tenants et les aboutissants de nos actions et de notre gestion.
