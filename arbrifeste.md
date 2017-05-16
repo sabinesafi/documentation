@@ -9,7 +9,7 @@ Pas d'autorité à la Cagette, la responsabilité des échecs et des réussites 
 
 - On décide ensemble.
 - On préfère le consentement plutôt que le consensus.
-- Toute opinion est bonne à entendre, une écoute attentive est prépondérante.
+- Toute opinion est bonne à entendre ainsi une écoute attentive est prépondérante.
 - On cherche l'établissement de relations équitables, égalitaires et réciproques.
 - On fait confiance à nos interlocuteurs par défaut, et on demande la réciproque.
 
