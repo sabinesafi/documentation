@@ -41,7 +41,7 @@ La Cagette est ouverte à toutes les différentes pratiques, opinions et préfé
 
 - Nous sommes ouvert.e.s à tou.te.s
 - On fait en sorte que tous les individus aient les moyens de participer en tant que membres valorisé.e.s et respecté.e.s.
-- On souhaite favoriser l'inclusion et la mixité en ouvrant la Cagette au public faiblement représenté.
+- Nous souhaitons que la Cagette soit un lieu de diversité et de mixité, favorisant l'inclusion.
 
 ---
 - Respect des opinions et des préférences
@@ -65,9 +65,8 @@ On dit ce que l’on pense, on fait ce que l’on dit et on n'essaye pas de fair
 
 
 - On est attaché.e.s au principe de non lucrativité.
-- On rend compte clairement des problèmes et des échecs.
-- On choisit la solution difficile lorsque c'est nécessaire.
 - On essaye de rendre visible et transparent les tenants et les aboutissants de nos actions et de notre gestion.
+- On choisit la solution difficile lorsque c'est nécessaire.
 
 ---
 - Développement individuel
