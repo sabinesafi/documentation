@@ -8,7 +8,7 @@ On sait faire des choses, et on aime les faire bien, avec vous.
 Pas d'autorité à la Cagette, la responsabilité des échecs et des réussites est également répartie sur les épaules de tou.te.s.
 
 - On décide ensemble.
-- On préfère le consentement à la recherche du consensus.
+- On préfère le consentement plutôt que le consensus.
 - Toute opinion est bonne à entendre, une écoute attentive est prépondérante.
 - On cherche l'établissement de relations équitables, égalitaires et réciproques.
 - On fait confiance à nos interlocuteurs par défaut, et on demande la réciproque.
@@ -21,11 +21,11 @@ Pas d'autorité à la Cagette, la responsabilité des échecs et des réussites 
 ---
 
 ## ÉMANCIPATION
-Pour changer le monde de l'alimentation, pour manger mieux et moins cher, nous choisissons une réponse collective. 
+La Cagette défend son indépendance et lutte contre les formes de domination pour une plus grande autonomie d'action et de réflexion.
 
 - Nous avons à cœur d'apprendre et de transmettre nos savoirs pour reprendre en main notre alimentation et notre consommation.
 - On souhaite proposer une alternative pour se libérer du marché oligopolistique.
-- On préfère déléguer, écouter, transmettre plutôt que faire plus "efficacement" à la place de quelqu'un.
+- On préfère échanger, déléguer et transmettre plutôt que faire plus "efficacement" à la place de quelqu'un.
 - Les individus ont du pouvoir à la mesure de ce qu'ils accomplissent, des tâches qu'ils choisissent et exécutent de manière autonome. 
 - Les responsabilités sont confiées aux individus et pas aux postes qu'ils occupent.
 
@@ -50,7 +50,7 @@ La Cagette est ouverte à toutes les différentes pratiques, opinions et préfé
 ---
 
 ## ÉCOLOGIE
-
+Pour changer le monde de l'alimentation, pour manger mieux et moins cher, nous choisissons une réponse collective. 
 - 
 - On abhorre le stress. On croit que le plaisir est un facteur essentiel d’équilibre et de réussite.
 - Plus que favoriser les circuits courts, la qualité, ... nous souhaitons proposer une approche systémique et pragmatique pour mieux manger en réduisant l'impact environnemental de notre alimentation.
