@@ -17,7 +17,12 @@ image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img
 * 2 micros HF
 * 2 gongs
 
-* 1 board : 
+* **1 BOARD**
+* [Board](http://www.multibao.org/#la-cagette/documentation/blob/master/forum-2017/board.md)
+* 4m x 1m - déplacable
+* 200 - fiches bristols - A5
+* Feutres : 4x30
+* Pates à fixe : 5 paquets
 
 # Espaces 
 Entre 10 et 15 espaces
