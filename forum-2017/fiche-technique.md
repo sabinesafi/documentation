@@ -32,4 +32,5 @@ Entre 10 et 15 espaces
 * Board : format paper board
 * 5 Feutres 
 * 10 paquets de post-it
+* Pomodoro ou horloge
 
