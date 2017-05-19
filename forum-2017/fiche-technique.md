@@ -16,6 +16,7 @@ image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img
 * Une sono
 * 2 micros HF
 * 2 gongs
+* un buffet grignote et boisson
 
 * **1 BOARD**
 * [Board](http://www.multibao.org/#la-cagette/documentation/blob/master/forum-2017/board.md)
