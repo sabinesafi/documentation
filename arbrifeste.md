@@ -55,7 +55,7 @@ Pour changer l'alimentation de tou.te.s, pour manger mieux, nous choisissons une
 
 - L'espèce humaine fait partie intégrante de son éco-système, cependant notre écologie est humaniste.
 - Les ressources sont limitées. Leur répartition est une question politique de justice et d'égalité.
-- Les solutions aux problème écologiques doivent être pensées collectivement. 
+- Les solutions aux problèmes écologiques doivent être pensées collectivement. 
 - Plus que favoriser les circuits courts, la qualité, ... Nous souhaitons proposer une approche systémique et pragmatique pour mieux manger en réduisant l'impact environnemental de notre alimentation.
 
 ---
