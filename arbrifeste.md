@@ -4,7 +4,7 @@ La Cagette est un supermarché à but non lucratif, ouvert à tou.te.s, dont les
 
 On sait faire des choses, et on aime les faire bien, ensemble.
 
-## Auto-Gestion collective
+## AUTO-GESTION COLLECTIVE
 Pas d'autorité à la Cagette, la responsabilité des échecs et des réussites est également répartie sur les épaules de tou.te.s.
 
 - Nous ne sommes pas des consom'ac.trice.teur.s , nous sommes des citoyen.ne.s à la recherche de solutions collectives. 
