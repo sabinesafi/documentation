@@ -42,7 +42,7 @@ La Cagette est ouverte à toutes les pratiques, opinions et préférences et ain
 
 - Nous sommes ouvert.e.s à tou.te.s
 - On fait en sorte que tous les individus aient les moyens de participer en tant que membres valorisé.e.s et respecté.e.s.
-- Nous souhaitons que la Cagette soit un lieu de diversité et de mixité, favorisant l'acueil.
+- Nous souhaitons que la Cagette soit un lieu de diversité et de mixité, favorisant l'accueil.
 
 ---
 * Respect des opinions et des préférences
@@ -53,7 +53,7 @@ La Cagette est ouverte à toutes les pratiques, opinions et préférences et ain
 ## ÉCOLOGIE
 Pour changer l'alimentation de tou.te.s, pour manger mieux, nous choisissons une réponse collective. 
 
-- L'espèce humaine fait partie intégrante de son éco-système, cependant notre notre écologie est humaniste.
+- L'espèce humaine fait partie intégrante de son éco-système, cependant notre écologie est humaniste.
 - Les ressources sont limitées. Leur répartition est une question politique de justice et d'égalité.
 - Les solutions aux problème écologiques doivent être pensées collectivement. 
 - Plus que favoriser les circuits courts, la qualité, ... Nous souhaitons proposer une approche systémique et pragmatique pour mieux manger en réduisant l'impact environnemental de notre alimentation.
