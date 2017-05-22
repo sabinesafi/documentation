@@ -42,7 +42,7 @@ La Cagette est ouverte à toutes les pratiques, opinions et préférences et ain
 
 - Nous sommes ouvert.e.s à tou.te.s
 - On fait en sorte que tous les individus aient les moyens de participer en tant que membres valorisé.e.s et respecté.e.s.
-- Nous souhaitons que la Cagette soit un lieu de diversité et de mixité, favorisant l'acueil.
+- Nous souhaitons que la Cagette soit un lieu de diversité et de mixité, favorisant l'accueil.
 
 ---
 * Respect des opinions et des préférences
