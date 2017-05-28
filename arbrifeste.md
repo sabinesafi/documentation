@@ -31,7 +31,7 @@ La Cagette favorise la lutte contre toutes les formes de domination pour une plu
 - Les responsabilités sont confiées aux individus et pas aux postes qu'ils occupent.
 
 ---
-* Se former, s'imposer en agissant
+* Se former, trouver sa place en agissant
 * Ne jamais faire à la place de quelqu'un, quelque chose qu'il peut faire lui-même
 * Lutte contre les oligopôles
 * Nous reprenons en main notre alimentation et notre consommation
