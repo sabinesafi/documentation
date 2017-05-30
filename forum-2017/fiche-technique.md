@@ -26,9 +26,9 @@ image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img
 * Pates à fixe : 3 paquets - (Thibault)
 
 # Espaces 
-Entre 10 et 15 espaces
+6 espaces de 20 personnes
 
-# Par espaces (pour 6 espaces)
+# Par espace (pour 6 espaces)
 * 20 chaises - (Creps ?)
 * Board : format paper board avec 15 feuilles - (Thibault)
 * 5 Feutres - (Thibault)
