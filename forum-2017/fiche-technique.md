@@ -12,11 +12,13 @@ image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img
 * **Animation** : Forum ouvert - Juliette Palumbo et Stéphane Langlois
 
 # Espace d'ouverture et de clôture
-* Dehors, un lieu pour caler 120 personnes - (Creps ?)
-* 5 espaces pour 20 personnes - (Creps ?)
-* Une sono - (?)
-* 2 micros HF - (?)
-* 2 gongs - (?)
+* Dehors, un lieu pour caler 120 personnes - (Ok espace dehors)
+* 120 chaises (creps ?))
+* Une sono - (Juliette - 2x130w)
+* 2 micros HF - (Juliette)
+* 1 mixette - (Juliette)
+* 2 gongs - cymbales - (Julien ?)
+* 1 rallonge 30m - (?)
 * Un buffet grignote et boisson - (julien et son Ha-crew)
 
 * **1 BOARD**
