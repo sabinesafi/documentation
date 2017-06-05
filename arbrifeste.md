@@ -84,3 +84,5 @@ On dit ce que l’on pense, on fait ce que l’on dit et on n'essaye pas de fair
 - Ne pas faire les malin·e·s
 - D’une façon générale, nous aspirons à établir des rapports de collaboration équitables, plaisants, sereins et maintenables indéfiniment.
 ---
+
+![](https://raw.githubusercontent.com/la-cagette/documentation/master/img/arbrifeste.png)
