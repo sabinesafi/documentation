@@ -10,7 +10,7 @@ Cliquer sur son nom lorsqu’il s’affiche.
 
 Cliquer sur “Définir le client”
 
-
+![](../img/1-caisse-1.jpg)
 
 2) Scanner le code barre
 Le produit apparaît dans le panier à gauche de l’écran 
