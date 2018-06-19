@@ -1,3 +1,5 @@
+![1-caisse-2.png]({{site.baseurl}}/procedures/1-caisse-2.png)
+![1-caisse-2.png]({{site.baseurl}}/procedures/1-caisse-2.png)
 # I. Effectuer un passage en caisse 
 
 ## 1) Sélectionner le membre
@@ -131,8 +133,3 @@ Cliquer alors sur le bouton VERT Valider
 Cliquer enfin sur le bouton VERT “Passer à la Commande suivante”
 
 A savoir : Tant que le paiement n’est pas validé, il est possible de changer le mode de paiement en revenant sur le ticket du client : cliquer sur close / confirmer / reprendre.
-
-
-
-
-
