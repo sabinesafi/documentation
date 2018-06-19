@@ -1,6 +1,6 @@
-I. Effectuer un passage en caisse 
+# I. Effectuer un passage en caisse 
 
-1) Sélectionner le membre
+## 1) Sélectionner le membre
  IMPORTANT : Avant de scanner le badge du membre, cliquer dans le champ “Rechercher un client”.
 
 Scanner la carte de la personne avec la douchette
@@ -12,7 +12,7 @@ Cliquer sur “Définir le client”
 
 ![](../img/1-caisse-1.png)
 
-2) Scanner le code barre
+## 2) Scanner le code barre
 Le produit apparaît dans le panier à gauche de l’écran 
 
 Il est inutile de prendre la douchette en main, elle scanne les produits passant devant son champ. 
@@ -26,7 +26,7 @@ ATTENTION, lorsque le message “code barre inconnu” s’affiche,NE PLUS UTILI
 
 
 
-3) Supprimer un élément du panier
+## 3) Supprimer un élément du panier
 Vérifier que le bouton Qté (Quantité) est bien en VERT
 
 Puis cliquer sur le bouton suivant : 
@@ -38,7 +38,7 @@ ATTENTION, Il faut parfois appuyer plusieurs fois sur le bouton. Il arrive égal
 
 
 
-4) Effectuer une remise
+## 4) Effectuer une remise
 A La Cagette, on applique une remise de 20% pour les produits périmant
 Le jour même
 Le lendemain
@@ -62,7 +62,7 @@ Exemple : Pour une réduction de 20%, tapez 20
 
 
 
-5) Retour des bidons consignés
+## 5) Retour des bidons consignés
 Taper consigne dans la barre de recherche et choisir le bidon 
 6) Passer au paiement
 Pour procéder au paiement
@@ -72,7 +72,7 @@ Demander au membre son mode de paiement (Espèces, Chèque ou Carte Bancaire)
 Cliquer sur le bouton correspondant à gauche
 
 
-6) a) Les Chèques
+## 6) a) Les Chèques
 Les chèques sont à faire à l’ordre de LA CAGETTE 
 Le champ “Offert” indique directement le montant du chèque (vérifier le montant, l’ordre et la signature !)
 Cliquer alors sur le bouton Valider
