@@ -1,5 +1,4 @@
-![1-caisse-2.png]({{site.baseurl}}/procedures/1-caisse-2.png)
-![1-caisse-2.png]({{site.baseurl}}/procedures/1-caisse-2.png)
+
 # I. Effectuer un passage en caisse 
 
 ## 1) Sélectionner le membre
@@ -25,8 +24,7 @@ Cliquer sur ok et chercher le produit dans la barre de recherche
 
 ATTENTION, lorsque le message “code barre inconnu” s’affiche,NE PLUS UTILISER LA DOUCHETTE car elle continue de biper mais les produits ne sont pas enregistrés dans le panier !!!!
 
-
-
+![1-caisse-2.png]({{site.baseurl}}/procedures/1-caisse-2.png)
 
 ## 3) Supprimer un élément du panier
 Vérifier que le bouton Qté (Quantité) est bien en VERT
